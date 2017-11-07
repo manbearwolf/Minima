@@ -11,6 +11,7 @@ github_username:  jekyll
 
 url: "https://manbearwolf.github.io/"
 baseurl: "/minima"
+repo_name: "/manbearwolf/minima"
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
