@@ -1,5 +1,10 @@
 # minima
 
+<b>11-11-17 [Google Page Speed](https://developers.google.com/speed/pagespeed/)</b><br />
+100/100 mobile 100/100 desktop<br />
+Fixed up Render Blocking CSS.<br />
+https://manbearwolf.github.io/minima/
+
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
 
 [Theme preview](https://jekyll.github.io/minima/)
